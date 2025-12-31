@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GJJ\\Unity\\\u56DB\u89D2\u821F\u884C\u52A8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E40048-5AA9-9437-667A-CE007FDE483A}|spine-unity.csproj|d:\\gjj\\unity\\\u56DB\u89D2\u821F\u884C\u52A8\\assets\\spine\\runtime\\spine-unity\\components\\skeletonanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E40048-5AA9-9437-667A-CE007FDE483A}|spine-unity.csproj|solutionrelative:assets\\spine\\runtime\\spine-unity\\components\\skeletonanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E40048-5AA9-9437-667A-CE007FDE483A}|spine-unity.csproj|d:\\gjj\\unity\\\u56DB\u89D2\u821F\u884C\u52A8\\assets\\spine\\runtime\\spine-unity\\shaders\\utility\\hiddenpass.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{71E40048-5AA9-9437-667A-CE007FDE483A}|spine-unity.csproj|solutionrelative:assets\\spine\\runtime\\spine-unity\\shaders\\utility\\hiddenpass.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E40048-5AA9-9437-667A-CE007FDE483A}|spine-unity.csproj|D:\\GJJ\\Unity\\\u56DB\u89D2\u821F\u884C\u52A8\\assets\\spine\\runtime\\spine-unity\\shaders\\spine-skeleton.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{71E40048-5AA9-9437-667A-CE007FDE483A}|spine-unity.csproj|solutionrelative:assets\\spine\\runtime\\spine-unity\\shaders\\spine-skeleton.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkeletonAnimation.cs",
+              "DocumentMoniker": "D:\\GJJ\\Unity\\\u56DB\u89D2\u821F\u884C\u52A8\\Assets\\Spine\\Runtime\\spine-unity\\Components\\SkeletonAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Spine\\Runtime\\spine-unity\\Components\\SkeletonAnimation.cs",
+              "ToolTip": "D:\\GJJ\\Unity\\\u56DB\u89D2\u821F\u884C\u52A8\\Assets\\Spine\\Runtime\\spine-unity\\Components\\SkeletonAnimation.cs",
+              "RelativeToolTip": "Assets\\Spine\\Runtime\\spine-unity\\Components\\SkeletonAnimation.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:19:31.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HiddenPass.shader",
+              "DocumentMoniker": "D:\\GJJ\\Unity\\\u56DB\u89D2\u821F\u884C\u52A8\\Assets\\Spine\\Runtime\\spine-unity\\Shaders\\Utility\\HiddenPass.shader",
+              "RelativeDocumentMoniker": "Assets\\Spine\\Runtime\\spine-unity\\Shaders\\Utility\\HiddenPass.shader",
+              "ToolTip": "D:\\GJJ\\Unity\\\u56DB\u89D2\u821F\u884C\u52A8\\Assets\\Spine\\Runtime\\spine-unity\\Shaders\\Utility\\HiddenPass.shader",
+              "RelativeToolTip": "Assets\\Spine\\Runtime\\spine-unity\\Shaders\\Utility\\HiddenPass.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-12-31T08:02:48.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spine-Skeleton.shader",
+              "DocumentMoniker": "D:\\GJJ\\Unity\\\u56DB\u89D2\u821F\u884C\u52A8\\Assets\\Spine\\Runtime\\spine-unity\\Shaders\\Spine-Skeleton.shader",
+              "RelativeDocumentMoniker": "Assets\\Spine\\Runtime\\spine-unity\\Shaders\\Spine-Skeleton.shader",
+              "ToolTip": "D:\\GJJ\\Unity\\\u56DB\u89D2\u821F\u884C\u52A8\\Assets\\Spine\\Runtime\\spine-unity\\Shaders\\Spine-Skeleton.shader",
+              "RelativeToolTip": "Assets\\Spine\\Runtime\\spine-unity\\Shaders\\Spine-Skeleton.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-12-31T07:55:45.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

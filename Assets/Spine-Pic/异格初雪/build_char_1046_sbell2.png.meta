@@ -1,0 +1,3092 @@
+fileFormatVersion: 2
+guid: 2c5affd739bac1a4fb9bd641ce09b563
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: -0.5
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: B_R_Finger_I
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 776
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d78fb51a87477500800000000000000
+      internalID: 393862150814140376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_R_Finger_II
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 524
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dc036678f94a050800000000000000
+      internalID: 5810944823098658060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_R_Finger_III
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 542
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a782322e2a7b2acf0800000000000000
+      internalID: -242429519718045574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_R_Finger_IV
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 859
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b2ac7a59cdf3b00800000000000000
+      internalID: 810608993273260927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_R_Finger_V
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 542
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8813bb6e7432710800000000000000
+      internalID: 1667255343365851361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_R_Hand_I
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 738
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e840459c99bf8d90800000000000000
+      internalID: -7093246805915186970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Bangs_I
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 574
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5077eb1014721b0800000000000000
+      internalID: -5681500929158347313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Bubble
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 69
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49313fa7911e0740800000000000000
+      internalID: 5120049169543805258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_C_Hand_B_I
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 94
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba418afdf46e11980800000000000000
+      internalID: -8569815385180203861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_C_Hand_B_II
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 736
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01325525564b3c2a0800000000000000
+      internalID: -6718327871840640240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_C_Hand_B_III
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 465
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea053bb9d96cf8630800000000000000
+      internalID: 3931579379942117550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Chest_I
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 507
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ba9d6cbd1c573f0800000000000000
+      internalID: -903603000539763961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Cloak_I
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 542
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af912a7d04ffdcd0800000000000000
+      internalID: -2531036126838153303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Cloak_II
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 604
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc32f9ab18ac7270800000000000000
+      internalID: 8249653454204714232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hair_I
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 340
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eab47c042676c30800000000000000
+      internalID: 4352555595237928498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Halo_I
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 94
+        width: 208
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46bb288344165c30800000000000000
+      internalID: 4347684770552723018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Head_I
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 287
+        width: 201
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19323cdea9bfb6c0800000000000000
+      internalID: -4125374572978357990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Head_II
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 294
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b74dd0e89551e40800000000000000
+      internalID: 5626501776121559833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Headwear_I
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 785
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4bd0b5025fa1d40800000000000000
+      internalID: 5556022609630311627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hip_I
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 852
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e8be19992f2be10800000000000000
+      internalID: 2212097108384386623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Arm_I
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 619
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e38379069ad1c40800000000000000
+      internalID: 5484726153526132313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Bag_I
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 698
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d443b8021e89660800000000000000
+      internalID: 7392906318219332948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Bangs_I
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 734
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4741c4228d3a31b00800000000000000
+      internalID: 798161707658384500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Bell_A_I
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 507
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049454558e73c72b0800000000000000
+      internalID: -5585527966843713216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Bell_A_II
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 141
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0214b5c334c4980800000000000000
+      internalID: -8553387665775320842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Bell_B_I
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 524
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4057304b39c27980800000000000000
+      internalID: -8542544286850789302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Bell_B_II
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d52efc2163a6c6e0800000000000000
+      internalID: -1817585761835407912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Bell_B_III
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 542
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c7da3f887270240800000000000000
+      internalID: 4757815000497486920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_C_Eye_I
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 872
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83002ffa8c41399b0800000000000000
+      internalID: -5074689502938529736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_C_Eye_II
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 465
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d1a3b78ab475eb0800000000000000
+      internalID: -4731229696535421645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_C_Hand_I
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 518
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa232faa52eb9260800000000000000
+      internalID: 7105521716220340909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Calf_I
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 737
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b347382684c2680800000000000000
+      internalID: -8778561985702511785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Cloak_I
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 482
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa82853b565e0a300800000000000000
+      internalID: 261461003350845615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Cloak_II
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 574
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c43daabdfd9b3c0800000000000000
+      internalID: -4343194231065326462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Cloak_III
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 574
+        width: 142
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cabe2ab731e34e40800000000000000
+      internalID: 5639598787861068488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Cloak_IV
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 434
+        width: 181
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7afbd5df9ac2e410800000000000000
+      internalID: 1504988013331741307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Cloak_V
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 308
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495d283ada2852ff0800000000000000
+      internalID: -61499337615420012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Ear_I
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 426
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fc6da650e709bd0800000000000000
+      internalID: -2625460021024600308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Ear_II
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 563
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e24daf889e7d940800000000000000
+      internalID: 5320978259294563949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Ear_III
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 669
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad254f9f087ac99f0800000000000000
+      internalID: -460308889507441958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Eye_I
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 409
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98e2753592d45c80800000000000000
+      internalID: -8334805472067262305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Eye_II
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 737
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b605c1126eeeae410800000000000000
+      internalID: 1507279697474244715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Eye_III
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 333
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d477e56873671e680800000000000000
+      internalID: -8727564622017693875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Eye_IV
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 583
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26477b385ace5cb80800000000000000
+      internalID: -8375027736401972126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Eyebrow_I
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 872
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60daf2ddc296c550800000000000000
+      internalID: 6180788951318188142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Eyelash_I
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 425
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccebcfce0d8044e20800000000000000
+      internalID: 3333799317583216332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Eyelash_II
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 426
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dadaa447b3651e0800000000000000
+      internalID: -2209513196523508356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Eyelash_III
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 507
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80cb3654505148f0800000000000000
+      internalID: -558076555662999412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Eyelash_IV
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 426
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6c800570b1cf040800000000000000
+      internalID: 4682647430779946675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Eyelid_I
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 737
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc006ea772dd23e0800000000000000
+      internalID: -2076772441679459146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Eyelid_II
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 430
+        width: 12
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69847de9daedba60800000000000000
+      internalID: 7691561960331315566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Eyelid_III
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 425
+        width: 22
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29ca324adcafca60800000000000000
+      internalID: 7696560341613463850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Eyelid_IV
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 752
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ec423a497f0a4d0800000000000000
+      internalID: -3125225923630805351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Eyelid_V
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 859
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626e6d63f113c8030800000000000000
+      internalID: 3498225020693833254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Finger_I
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 821
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8e61e266d5ba830800000000000000
+      internalID: 4083460180582787326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Finger_II
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 434
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54d54a4dd17705f0800000000000000
+      internalID: -790538014332431270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Finger_III
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 360
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76ebb210bf27ed00800000000000000
+      internalID: 1001821875388278395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Finger_IV
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 568
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331db965c41c30600800000000000000
+      internalID: 433402522772427059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Finger_V
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 568
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78978f17f01f03f0800000000000000
+      internalID: -932507944270456710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Foot_I
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 669
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcf4a0753bc26570800000000000000
+      internalID: 8458546480538778804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Forearm_I
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 721
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fcc4fdadbb274c0800000000000000
+      internalID: -4291160946207043797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_HairBand_I
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 574
+        width: 100
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63b343bb03895200800000000000000
+      internalID: 169310547278541675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_HairBand_II
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 733
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f1f6d514a9d49d0800000000000000
+      internalID: -2788402988741353697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Hair_I
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 294
+        width: 99
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ef7e71821c61ce0800000000000000
+      internalID: -1434747053326991824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Hair_II
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 173
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d067d0c61c1e93750800000000000000
+      internalID: 6285302975829997069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Hand_I
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 840
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7a10194263b9a50800000000000000
+      internalID: 6528871615483193260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Leg_I
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 770
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe313ef222bd37f0800000000000000
+      internalID: -631152509398728969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Pigtail_I
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2
+        width: 239
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffc5ddbe2e46e430800000000000000
+      internalID: 3811820097276071928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Ribbon_I
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 752
+        width: 141
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d142aac82a7630e90800000000000000
+      internalID: -7060685842944482275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Ribbon_II
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 574
+        width: 93
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3af2108d2e7f9b0800000000000000
+      internalID: -5046315440084638809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_L_Temples_I
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 749
+        width: 57
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f38de2754d82170800000000000000
+      internalID: 8154000596267450128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Mouth_I
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 425
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80e867e2e22559b0800000000000000
+      internalID: -5092125445732114289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Mouth_II
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 166
+        width: 10
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8faa13395816990800000000000000
+      internalID: -7394482245925668678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Mouth_III
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 425
+        width: 2
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0e77552c880a740800000000000000
+      internalID: 5161275541205541041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Necklace_I
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 391
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8af61c547a47f20800000000000000
+      internalID: 3419541935120951487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Arm_I
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 619
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbdc4c33bc0c4f30800000000000000
+      internalID: 4561034486569819076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Bangs_I
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 846
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64ec7c5f55727d40800000000000000
+      internalID: 5580651940699497580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Bell_A_I
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 590
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b64f6d27a8a38c00800000000000000
+      internalID: 901749786379503287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Bell_A_II
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 669
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b185ae56857b0700800000000000000
+      internalID: 507628602983285177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Bell_A_III
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 160
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad3cf055da12acf0800000000000000
+      internalID: -242601926435521120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Belt_I
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 747
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710bd889e7737b230800000000000000
+      internalID: 3654450639499276311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_C_Eye_I
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 542
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c037236e7dda290800000000000000
+      internalID: -7877402789512279007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_C_Eye_II
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 542
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30492fc0b6939db0800000000000000
+      internalID: -4786316292830707650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_C_Hand_I
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 574
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6800019a86cb08f90800000000000000
+      internalID: -6953350666961026938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Calf_I
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 509
+        width: 103
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfaa97534ec0e260800000000000000
+      internalID: 7124921399128010672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Cloak_I
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 439
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb21ca92a42845900800000000000000
+      internalID: 672305499423380159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Cloak_II
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 659
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e16ad2b79512f50800000000000000
+      internalID: 6854858493416316505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Cloak_III
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 574
+        width: 106
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6e6334516d247c0800000000000000
+      internalID: -4088470124888660241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Cloak_IV
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 294
+        width: 186
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a13fbd1239741710800000000000000
+      internalID: 1663087418560950695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Cloak_Raise_I
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 426
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9837de6aca8ad2470800000000000000
+      internalID: 8371532741840040841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Cloak_Raise_II
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 574
+        width: 123
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c758a41f25cc160a0800000000000000
+      internalID: -6890001298292570756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Cloak_V
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 294
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e793570035ce7e6c0800000000000000
+      internalID: -4114059893345535618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Ear_I
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 127
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9a8e64c78074d60800000000000000
+      internalID: 7874271803339221428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Ear_II
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 613
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c82c43d773081ef0800000000000000
+      internalID: -137355975453824831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Ear_III
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 660
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9447c507eabe75070800000000000000
+      internalID: 8095197989663700041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Earrings_I
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 542
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e485b0d2150d0c2d0800000000000000
+      internalID: -3260377083149592498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Eye_I
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 287
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7009c2f1193cd5a70800000000000000
+      internalID: 8817418673521987591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Eye_II
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 872
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c7afffc79724df0800000000000000
+      internalID: -197461855873368977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Eye_III
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 650
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036e671bc8ce19200800000000000000
+      internalID: 185189148715836976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Eye_IV
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 776
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa8464521b399bf0800000000000000
+      internalID: -317157348841583873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Eyebrow_I
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 859
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2cf0732c1d80d80800000000000000
+      internalID: -8284140882470387038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Eyelash_I
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 426
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387545e8638fcf050800000000000000
+      internalID: 5835812130365134723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Eyelash_II
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 166
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0d43ffa6558aca0800000000000000
+      internalID: -6005456185062010662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Eyelash_III
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 377
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f12dd82e1ce352e0800000000000000
+      internalID: -2138105783792098823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Eyelash_IV
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 166
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6431a863dbfa86670800000000000000
+      internalID: 8532262721252102982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Eyelid_I
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 737
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b427a541b86b156e0800000000000000
+      internalID: -1850497263414382005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Eyelid_II
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 430
+        width: 8
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921ce4dfa1d164ad0800000000000000
+      internalID: -2718453323315363543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Eyelid_III
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 417
+        width: 3
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fde5a54d2acb8ce0800000000000000
+      internalID: -1401804563204936206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Eyelid_IV
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 737
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c686bd4dfa05d2310800000000000000
+      internalID: 1381849376793258092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Eyelid_V
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 542
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d486293283a19140800000000000000
+      internalID: 4724737263788262613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Finger_I
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 131
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9babb8619b365260800000000000000
+      internalID: 7085916559427480478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Finger_II
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 386
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb092499ed1c1bca0800000000000000
+      internalID: -6002803666509983554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Finger_III
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 542
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324f620bbfe0ed2c0800000000000000
+      internalID: -4405066911366843357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Finger_IV
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 407
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa2f233ed5dd60e0800000000000000
+      internalID: -2274927086434047243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Finger_V
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 872
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17446bcf4f50cf5b0800000000000000
+      internalID: -5333381308943547279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Fingers_I
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 619
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed5e9e006ffeab20800000000000000
+      internalID: 3147733977605758442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Foot_I
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 507
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4efaa844c20b910800000000000000
+      internalID: 1851028119745455317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Forearm_I
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 426
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5878f100aaa1a1520800000000000000
+      internalID: 2673478646246639493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Forearm_II
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 668
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d753893aacb8f5910800000000000000
+      internalID: 1828333676180026749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_HairBand_I
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 409
+        width: 196
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabc2cb8f2af4bb00800000000000000
+      internalID: 843574112340331437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Hand_I
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 846
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dbdce7b5f2ebe50800000000000000
+      internalID: 6826946155156192604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Leg_I
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 434
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242156afe1192e6e0800000000000000
+      internalID: -1809724538013543870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Pigtail_I
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2
+        width: 238
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e8b85a4cac128e0800000000000000
+      internalID: -1719870636739031483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Ribbon_I
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 287
+        width: 205
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30e8845071228320800000000000000
+      internalID: 2558644304638173247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Ribbon_II
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 425
+        width: 156
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a2589b275eab230800000000000000
+      internalID: 3655486328466123402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Temples_I
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 737
+        width: 38
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b73737910e78ac0800000000000000
+      internalID: -3852864556276417755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_R_Temples_II
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 247
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98e4b2beee0fc040800000000000000
+      internalID: 4669967756969699482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Shadow_I
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 749
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376992140bcd52390800000000000000
+      internalID: -7843620526430251405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Skirt_I
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 131
+        width: 207
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05850cb2ce6444360800000000000000
+      internalID: 7152920088331442256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Star
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 840
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee62726ff1a792280800000000000000
+      internalID: -9067582097041447186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Tail_I
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 767
+        width: 156
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6821f7feb2f43a70800000000000000
+      internalID: 8805930073433647215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Waist_I
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 176
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8551378b100ce6e30800000000000000
+      internalID: 4498744191411754328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Waist_II
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 823
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5103217735081e7e0800000000000000
+      internalID: -1737966885219979243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      B_R_Finger_I: 393862150814140376
+      B_R_Finger_II: 5810944823098658060
+      B_R_Finger_III: -242429519718045574
+      B_R_Finger_IV: 810608993273260927
+      B_R_Finger_V: 1667255343365851361
+      B_R_Hand_I: -7093246805915186970
+      F_Bangs_I: -5681500929158347313
+      F_Bubble: 5120049169543805258
+      F_C_Hand_B_I: -8569815385180203861
+      F_C_Hand_B_II: -6718327871840640240
+      F_C_Hand_B_III: 3931579379942117550
+      F_Chest_I: -903603000539763961
+      F_Cloak_I: -2531036126838153303
+      F_Cloak_II: 8249653454204714232
+      F_Hair_I: 4352555595237928498
+      F_Halo_I: 4347684770552723018
+      F_Head_I: -4125374572978357990
+      F_Head_II: 5626501776121559833
+      F_Headwear_I: 5556022609630311627
+      F_Hip_I: 2212097108384386623
+      F_L_Arm_I: 5484726153526132313
+      F_L_Bag_I: 7392906318219332948
+      F_L_Bangs_I: 798161707658384500
+      F_L_Bell_A_I: -5585527966843713216
+      F_L_Bell_A_II: -8553387665775320842
+      F_L_Bell_B_I: -8542544286850789302
+      F_L_Bell_B_II: -1817585761835407912
+      F_L_Bell_B_III: 4757815000497486920
+      F_L_C_Eye_I: -5074689502938529736
+      F_L_C_Eye_II: -4731229696535421645
+      F_L_C_Hand_I: 7105521716220340909
+      F_L_Calf_I: -8778561985702511785
+      F_L_Cloak_I: 261461003350845615
+      F_L_Cloak_II: -4343194231065326462
+      F_L_Cloak_III: 5639598787861068488
+      F_L_Cloak_IV: 1504988013331741307
+      F_L_Cloak_V: -61499337615420012
+      F_L_Ear_I: -2625460021024600308
+      F_L_Ear_II: 5320978259294563949
+      F_L_Ear_III: -460308889507441958
+      F_L_Eye_I: -8334805472067262305
+      F_L_Eye_II: 1507279697474244715
+      F_L_Eye_III: -8727564622017693875
+      F_L_Eye_IV: -8375027736401972126
+      F_L_Eyebrow_I: 6180788951318188142
+      F_L_Eyelash_I: 3333799317583216332
+      F_L_Eyelash_II: -2209513196523508356
+      F_L_Eyelash_III: -558076555662999412
+      F_L_Eyelash_IV: 4682647430779946675
+      F_L_Eyelid_I: -2076772441679459146
+      F_L_Eyelid_II: 7691561960331315566
+      F_L_Eyelid_III: 7696560341613463850
+      F_L_Eyelid_IV: -3125225923630805351
+      F_L_Eyelid_V: 3498225020693833254
+      F_L_Finger_I: 4083460180582787326
+      F_L_Finger_II: -790538014332431270
+      F_L_Finger_III: 1001821875388278395
+      F_L_Finger_IV: 433402522772427059
+      F_L_Finger_V: -932507944270456710
+      F_L_Foot_I: 8458546480538778804
+      F_L_Forearm_I: -4291160946207043797
+      F_L_HairBand_I: 169310547278541675
+      F_L_HairBand_II: -2788402988741353697
+      F_L_Hair_I: -1434747053326991824
+      F_L_Hair_II: 6285302975829997069
+      F_L_Hand_I: 6528871615483193260
+      F_L_Leg_I: -631152509398728969
+      F_L_Pigtail_I: 3811820097276071928
+      F_L_Ribbon_I: -7060685842944482275
+      F_L_Ribbon_II: -5046315440084638809
+      F_L_Temples_I: 8154000596267450128
+      F_Mouth_I: -5092125445732114289
+      F_Mouth_II: -7394482245925668678
+      F_Mouth_III: 5161275541205541041
+      F_Necklace_I: 3419541935120951487
+      F_R_Arm_I: 4561034486569819076
+      F_R_Bangs_I: 5580651940699497580
+      F_R_Bell_A_I: 901749786379503287
+      F_R_Bell_A_II: 507628602983285177
+      F_R_Bell_A_III: -242601926435521120
+      F_R_Belt_I: 3654450639499276311
+      F_R_C_Eye_I: -7877402789512279007
+      F_R_C_Eye_II: -4786316292830707650
+      F_R_C_Hand_I: -6953350666961026938
+      F_R_Calf_I: 7124921399128010672
+      F_R_Cloak_I: 672305499423380159
+      F_R_Cloak_II: 6854858493416316505
+      F_R_Cloak_III: -4088470124888660241
+      F_R_Cloak_IV: 1663087418560950695
+      F_R_Cloak_Raise_I: 8371532741840040841
+      F_R_Cloak_Raise_II: -6890001298292570756
+      F_R_Cloak_V: -4114059893345535618
+      F_R_Ear_I: 7874271803339221428
+      F_R_Ear_II: -137355975453824831
+      F_R_Ear_III: 8095197989663700041
+      F_R_Earrings_I: -3260377083149592498
+      F_R_Eye_I: 8817418673521987591
+      F_R_Eye_II: -197461855873368977
+      F_R_Eye_III: 185189148715836976
+      F_R_Eye_IV: -317157348841583873
+      F_R_Eyebrow_I: -8284140882470387038
+      F_R_Eyelash_I: 5835812130365134723
+      F_R_Eyelash_II: -6005456185062010662
+      F_R_Eyelash_III: -2138105783792098823
+      F_R_Eyelash_IV: 8532262721252102982
+      F_R_Eyelid_I: -1850497263414382005
+      F_R_Eyelid_II: -2718453323315363543
+      F_R_Eyelid_III: -1401804563204936206
+      F_R_Eyelid_IV: 1381849376793258092
+      F_R_Eyelid_V: 4724737263788262613
+      F_R_Finger_I: 7085916559427480478
+      F_R_Finger_II: -6002803666509983554
+      F_R_Finger_III: -4405066911366843357
+      F_R_Finger_IV: -2274927086434047243
+      F_R_Finger_V: -5333381308943547279
+      F_R_Fingers_I: 3147733977605758442
+      F_R_Foot_I: 1851028119745455317
+      F_R_Forearm_I: 2673478646246639493
+      F_R_Forearm_II: 1828333676180026749
+      F_R_HairBand_I: 843574112340331437
+      F_R_Hand_I: 6826946155156192604
+      F_R_Leg_I: -1809724538013543870
+      F_R_Pigtail_I: -1719870636739031483
+      F_R_Ribbon_I: 2558644304638173247
+      F_R_Ribbon_II: 3655486328466123402
+      F_R_Temples_I: -3852864556276417755
+      F_R_Temples_II: 4669967756969699482
+      F_Shadow_I: -7843620526430251405
+      F_Skirt_I: 7152920088331442256
+      F_Star: -9067582097041447186
+      F_Tail_I: 8805930073433647215
+      F_Waist_I: 4498744191411754328
+      F_Waist_II: -1737966885219979243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
